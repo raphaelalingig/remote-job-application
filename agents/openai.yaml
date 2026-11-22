@@ -1,0 +1,7 @@
+interface:
+  display_name: "Remote Job Application"
+  short_description: "Find, rank, tailor, and track remote applications"
+  default_prompt: "Use $remote-job-application to find recent remote roles, rank my matches, tailor my resume truthfully, and prepare applications for review."
+
+policy:
+  allow_implicit_invocation: true
